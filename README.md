@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Kalaimugilan</h1>
 <h3 align="center">A passionate Network engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalai-vision&label=Profile%20views&color=0e75b6&style=flat" alt="kalai-vision" /> </p>
-(img align="right" alt="Coding" width="400" src="https://forum.huawei.com/enterprise/api/file/v1/small/thread/667285266555080704.gif?appid=esc_en")
+<img align="right" alt="Coding" width="400" src="https://forum.huawei.com/enterprise/api/file/v1/small/thread/667285266555080704.gif?appid=esc_en">
 
 - 🌱 I’m currently learning **AWS**
 
