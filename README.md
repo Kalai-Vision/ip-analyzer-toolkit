@@ -1,8 +1,5 @@
-[![MasterHead]( images (370×136) (gstatic.com))
 <h1 align="center">Hi there 👋, I'm Kalaimugilan</h1>
 <h3 align="center">A passionate Network engineer from India</h3>
-(img align="right" alt="Coding" width="400" src="667285266555080704.gif (503×494) (huawei.com)")
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalai-vision&label=Profile%20views&color=0e75b6&style=flat" alt="kalai-vision" /> </p>
 
 - 🌱 I’m currently learning **AWS**
@@ -12,9 +9,9 @@
 - 📫 How to reach me **kmugilan5@gmail.com**
 
 - ⚡ Fun fact **I love traveling and have a goal to visit every country in my lifetime! I enjoy seeing how people connect using technology in different places.**
-Here’s a suggestion for your "About Me" section that you can use for your GitHub profile or any other platform:
 ________________________________________
 About Me
+
 Hello! I’m Kalaimugilan, a passionate Network Engineer with a strong foundation in networking concepts & basic knowledge in linux, python programming and cloud technologies. With knowledge in designing, implementing, and managing network infrastructures
 My technical skill set includes expertise in various networking protocols, routing and switching technologies, and security measures. I have a keen interest in cloud services, particularly AWS, and I’m currently expanding my knowledge in Python scripting to automate tasks and enhance network management.
 I’m always eager to learn new skills and tools. Outside of work, I love exploring new technologies and sharing knowledge with others.
