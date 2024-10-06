@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I love traveling and have a goal to visit every country in my lifetime! I enjoy seeing how people connect using technology in different places.**
 ________________________________________
-About Me
+**About Me**
 
 Hello! I’m Kalaimugilan, a passionate Network Engineer with a strong foundation in networking concepts & basic knowledge in linux, python programming and cloud technologies. With knowledge in designing, implementing, and managing network infrastructures
 My technical skill set includes expertise in various networking protocols, routing and switching technologies, and security measures. I have a keen interest in cloud services, particularly AWS, and I’m currently expanding my knowledge in Python scripting to automate tasks and enhance network management.
