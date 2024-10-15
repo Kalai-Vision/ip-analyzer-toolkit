@@ -22,12 +22,6 @@ I’m always eager to learn new skills and tools. Outside of work, I love explor
 
 ---
 
-### Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-id" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
 
 ### Languages and Tools:
 <p align="left"> 
@@ -48,6 +42,9 @@ I’m always eager to learn new skills and tools. Outside of work, I love explor
   </a> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalai-vision&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+### Connect with Me:
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin-id" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
