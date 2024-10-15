@@ -13,7 +13,7 @@
 ---
 
 ### About Me
-Hello! I’m Kalaimugilan, a passionate Network Engineer with a strong foundation in networking concepts and basic knowledge in Linux, Python programming, and cloud technologies. I have experience in designing, implementing, and managing network infrastructures.
+Hello! I’m Kalaimugilan, a passionate Network Engineer with a strong foundation in networking concepts and basic knowledge in Linux, Python programming, and cloud technologies. I have Knowledge in designing, implementing, and managing network infrastructures.
 
 My technical skill set includes expertise in various networking protocols, routing and switching technologies, and security measures. I have a keen interest in cloud services, particularly AWS, and I’m currently expanding my knowledge in Python scripting to automate tasks and enhance network management.
 
